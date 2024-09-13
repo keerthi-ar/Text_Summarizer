@@ -1,14 +1,6 @@
-# Text_Summarizer
+#Text Summarizer
 
-##  Workflows
+Welcome to the Text Summarizer project! 
 
-1. Update config.yaml
-2. Update params.yaml
-3. Update entity
-4. Update the configuration manager in src config
-5. Update the conponents
-6. Update the pipeline
-7. Update the main.py
-8. Update the app.py
-
+This repository contains a Python-based application designed to generate concise summaries of text documents using state-of-the-art Natural Language Processing (NLP) techniques.
 
